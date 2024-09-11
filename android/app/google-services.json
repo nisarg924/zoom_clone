@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "914736784954",
+    "project_id": "zoomclone-bc04b",
+    "storage_bucket": "zoomclone-bc04b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914736784954:android:c3f4325372cce58491b703",
+        "android_client_info": {
+          "package_name": "com.example.zoomclone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB24lnHhlNpZsnnJYGjLePS7Kq8KKDLPCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
